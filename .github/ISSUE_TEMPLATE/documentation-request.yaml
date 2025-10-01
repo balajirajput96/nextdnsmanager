@@ -3,7 +3,7 @@ description: Suggest improvements or additions to our documentation.
 title: "[Documentation] "
 labels: ["type: documentation"]
 assignees:
-  - doubleangels
+  - balajirajput96
 
 body:
   - type: dropdown

@@ -3,7 +3,7 @@ description: Propose a new feature for the project. Please check the FAQ before 
 title: "[Feature Request] "
 labels: ["type: feature"]
 assignees:
-  - doubleangels
+  - balajirajput96
 
 body:
   - type: dropdown

@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://img.shields.io/github/release/doubleangels/NextDNSManager.svg?logo=github&label=GitHub%20Build&style=for-the-badge" alt="GitHub Build">
+  <img src="https://img.shields.io/github/release/balajirajput96/nextdnsmanager.svg?logo=github&label=GitHub%20Build&style=for-the-badge" alt="GitHub Build">
   <img src="https://img.shields.io/f-droid/v/com.doubleangels.nextdnsmanagement.svg?logo=F-Droid&label=F-Droid%20Build&style=for-the-badge" alt="F-Droid Build">
-  <img src="https://img.shields.io/github/actions/workflow/status/doubleangels/nextdnsmanager/.github/workflows/deploy.yml?label=Deployment%20Pipeline&style=for-the-badge" alt="Main Deployment">
-  <img src="https://img.shields.io/github/actions/workflow/status/doubleangels/nextdnsmanager/.github/workflows/test-dev.yml?label=Development%20Testing&style=for-the-badge" alt="Development Testing">
-  <img src="https://img.shields.io/librariesio/github/doubleangels/nextdnsmanager?label=Dependencies&style=for-the-badge" alt="Dependencies">
-  <img src="https://img.shields.io/github/issues/doubleangels/nextdnsmanager?label=GitHub%20Issues&style=for-the-badge" alt="GitHub Issues">
-  <img src="https://img.shields.io/github/issues-pr/doubleangels/nextdnsmanager?label=GitHub%20Pull%20Requests&style=for-the-badge" alt="GitHub Pull Requests">
+  <img src="https://img.shields.io/github/actions/workflow/status/balajirajput96/nextdnsmanager/.github/workflows/deploy.yml?label=Deployment%20Pipeline&style=for-the-badge" alt="Main Deployment">
+  <img src="https://img.shields.io/github/actions/workflow/status/balajirajput96/nextdnsmanager/.github/workflows/test-dev.yml?label=Development%20Testing&style=for-the-badge" alt="Development Testing">
+  <img src="https://img.shields.io/librariesio/github/balajirajput96/nextdnsmanager?label=Dependencies&style=for-the-badge" alt="Dependencies">
+  <img src="https://img.shields.io/github/issues/balajirajput96/nextdnsmanager?label=GitHub%20Issues&style=for-the-badge" alt="GitHub Issues">
+  <img src="https://img.shields.io/github/issues-pr/balajirajput96/nextdnsmanager?label=GitHub%20Pull%20Requests&style=for-the-badge" alt="GitHub Pull Requests">
 </p>
 
 <p align="center">
@@ -116,7 +116,7 @@ Get NextDNS Manager on F-Droid from the [official page](https://f-droid.org/en/p
 
 ### Manual Installation
 
-Download the latest APK directly from the [GitHub Releases page](https://github.com/doubleangels/NextDNSManager/releases).
+Download the latest APK directly from the [GitHub Releases page](https://github.com/balajirajput96/nextdnsmanager/releases).
 
 ---
 
@@ -124,11 +124,11 @@ Download the latest APK directly from the [GitHub Releases page](https://github.
 
 ### <a id="multiple-versions"></a>Multiple versions of NextDNS Manager after the 5.5.0 update
 
-If you see multiple versions of the app on your device after updating to 5.5.0 and have questions, [check this](https://github.com/doubleangels/nextdnsmanager/issues/430).
+If you see multiple versions of the app on your device after updating to 5.5.0 and have questions, [check this](https://github.com/balajirajput96/nextdnsmanager/issues/430).
 
 ### <a id="sentry"></a>What is Sentry, and is it tracking me?
 
-If you're wondering about Sentry, [check this](https://github.com/doubleangels/nextdnsmanager/issues/445). Sentry is completely opt-in (both via a manual toggle and DNS whitelisting) and only collects anonymized data to help diagnose issues. The information I receive includes:
+If you're wondering about Sentry, [check this](https://github.com/balajirajput96/nextdnsmanager/issues/445). Sentry is completely opt-in (both via a manual toggle and DNS whitelisting) and only collects anonymized data to help diagnose issues. The information I receive includes:
 
 - **Device model and type**
 - **Operating system version**
@@ -166,7 +166,7 @@ This feature is removed from F-Droid builds because it relies on Google's servic
 If you encounter any issues or have suggestions to enhance NextDNS Manager, please take the following steps:
 
 1. Check the [FAQ](FAQ.md) for common questions.
-2. Open a new [GitHub Issue](https://github.com/doubleangels/NextDNSManager/issues/new/choose) with a detailed description.
+2. Open a new [GitHub Issue](https://github.com/balajirajput96/nextdnsmanager/issues/new/choose) with a detailed description.
 
 _Please note that contributions and responses may take time as this project is maintained in my free time._
 

@@ -3,7 +3,7 @@ description: Report a bug or issue you're experieriencing with the app. Please c
 title: "[Bug/Issue] "
 labels: ["type: bug"]
 assignees:
-  - doubleangels
+  - balajirajput96
 
 body:
   - type: dropdown

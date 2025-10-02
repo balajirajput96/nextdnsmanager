@@ -3,7 +3,7 @@ description: Share your thoughts and suggestions to help us improve.
 title: "[Feedback] "
 labels: ["type: feedback"]
 assignees:
-  - doubleangels
+  - balajirajput96
 
 body:
   - type: dropdown

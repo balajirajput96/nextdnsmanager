@@ -3,7 +3,7 @@ description: Suggest a new feature or improvement to the project. Please check t
 title: "[Enhancement] "
 labels: ["type: enhancement"]
 assignees:
-  - doubleangels
+  - balajirajput96
 
 body:
   - type: dropdown

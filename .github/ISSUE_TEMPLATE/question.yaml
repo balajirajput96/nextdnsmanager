@@ -3,7 +3,7 @@ description: Ask a question and get help about the project. Please check the FAQ
 title: "[Question] "
 labels: ["type: question"]
 assignees:
-  - doubleangels
+  - balajirajput96
 
 body:
   - type: dropdown
